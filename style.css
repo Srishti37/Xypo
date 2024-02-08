@@ -477,9 +477,9 @@ hr {
     height: 12px;
   }
 
-  .about-left-col,
-  .about-right-col {
+  .about-left-col, .about-right-col {
     flex-basis: 100%;
+    margin-top:20px 
   }
 
   .about-text {
