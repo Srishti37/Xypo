@@ -288,7 +288,7 @@ nav ul li a {
 /*-------------- Contact Section ---------------*/
 
 #contact{
-  padding: 100px auto;
+  padding: 100px 0px;
 }
 
 /* .contact-text{
@@ -517,7 +517,7 @@ hr {
   }
 
   #contact {
-    padding: 50px 0;
+    padding: 50px 0px;
   }
 
   .contact-left-col {
