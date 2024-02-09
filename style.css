@@ -287,9 +287,9 @@ nav ul li a {
 
 /*-------------- Contact Section ---------------*/
 
-/* .contact{
+#contact{
   padding: 100px auto;
-} */
+}
 
 /* .contact-text{
   max-width:500px;
@@ -516,7 +516,7 @@ hr {
     margin-right: 50px;
   }
 
-  .contact {
+  #contact {
     padding: 50px 0;
   }
 
