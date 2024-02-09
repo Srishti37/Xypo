@@ -319,7 +319,7 @@ nav ul li a {
 
 form {
   max-width: 400px;
-  margin: 30px 0;
+  margin: 30px auto;
 }
 
 form input {
